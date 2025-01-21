@@ -1,0 +1,18 @@
+---
+title: "homework_links"
+author: "George Ni"
+date: "2025-01-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here are where your homework links will go!
+
+Week 1 [link here](Homework_1.html)
+
+Week 2
+
+Week 3

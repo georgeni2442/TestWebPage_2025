@@ -7,3 +7,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Homeworks"
+      href: homework_links.html
+output:
+  html_document:
+    theme: cerulean
